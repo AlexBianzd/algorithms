@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "container:arrays"
+      name = "arrays">
+      <FileRef
+         location = "group:delete_nth.py">
+      </FileRef>
+      <FileRef
+         location = "group:flatten.py">
+      </FileRef>
+      <FileRef
+         location = "group:garage.py">
+      </FileRef>
+      <FileRef
+         location = "group:josephus.py">
+      </FileRef>
+      <FileRef
+         location = "group:max_ones_index.py">
+      </FileRef>
+      <FileRef
+         location = "group:limit.py">
+      </FileRef>
+      <FileRef
+         location = "group:longest_non_repeat.py">
+      </FileRef>
+      <FileRef
+         location = "group:merge_intervals.py">
+      </FileRef>
+      <FileRef
+         location = "group:missing_ranges.py">
+      </FileRef>
+      <FileRef
+         location = "group:plus_one.py">
+      </FileRef>
+      <FileRef
+         location = "group:rotate.py">
+      </FileRef>
+      <FileRef
+         location = "group:summarize_ranges.py">
+      </FileRef>
+      <FileRef
+         location = "group:three_sum.py">
+      </FileRef>
+      <FileRef
+         location = "group:trimmean.py">
+      </FileRef>
+      <FileRef
+         location = "group:top_1.py">
+      </FileRef>
+      <FileRef
+         location = "group:two_sum.py">
+      </FileRef>
+      <FileRef
+         location = "group:move_zeros.py">
+      </FileRef>
+   </Group>
+</Workspace>
